@@ -49,6 +49,23 @@ JS Programming Lang => Module => Packages => Libraries/Framework.
 2.  Building a First Custom React Functional Component.
 3.  Adding CSS Styles.
 4.  Dynamics Data in Component.
-5.  Properties (Props)
-6.  
+5.  Properties (Props) - Parent to Child - Transfer of Data.
+6.  Children Props - Concept of Composition.
+
+<!-- React State and Events -->
+
+1.  React State and Events.
+====> State is any data that changes over the time.
+====> Context of React => Temporary Memory of Components.
+====> Events - Actions triggered for performing something.
+====> State => x = 10 ==> Clicked Button ==> x + 1 ==> x = 11 => React re-renders the component to reflect the new data on the screen.
+2.  Component Functions Execution Understanding.
+3.  What are Hooks?
+4.  The State Hook - useState.
+5.  Working with Multiple States.
+6.  Advanced State and Communication.
+7.  Lifting the State up.
+8.  Child to Parent Communication.
+9.  Stateless Components.
+10. Stateless Components.
 
