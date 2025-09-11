@@ -66,6 +66,27 @@ JS Programming Lang => Module => Packages => Libraries/Framework.
 6.  Advanced State and Communication.
 7.  Lifting the State up.
 8.  Child to Parent Communication.
-9.  Stateless Components.
+9.  Stateful Components.
 10. Stateless Components.
+
+<!-- React Events and Form -->
+
+1. Revision.
+2. Updating State that depends on the previous state.
+3. Lifting the State up.
+4. Child to Parent Communication.
+5. Stateful Components VS Stateless Components.
+6. React State and Events.
+7. Working with Event Handlers - Handling Events.
+8. Adding the Form Input and Listening to User Input.
+9.  Handling Form Submission.
+10. Adding Two-Way Binding.
+11. Controlled VS UnControlled Components.
+
+
+<!-- Rules of Hook -->
+1. Call Hooks at the top level of your component - not inside loops, conditions, nested functions.
+2. Hooks are meant for Functional Components only.
+3. All the Hooks starts with "use"
+
 
