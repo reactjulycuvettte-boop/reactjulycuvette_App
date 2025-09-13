@@ -13,7 +13,10 @@ import './index.css'
 // import FormHandling from './components/Events/FormHandling'
 // import { ControlledComponent, UnControlledComponent } from './components/Events/ControlledUnControlled'
 // import ListRendering from './components/Lists/ListRendering'
-import ConditionalRendering from "./components/ConditionalRendering/ConditionalRendering"
+// import ConditionalRendering from "./components/ConditionalRendering/ConditionalRendering"
+// import NotificationSystem from "./components/ConditionalRendering/NotificationSystem"
+// import UseEffect from './components/sideEffects/UseEffect'
+import ApiCall from "./components/API/ApiCall"
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -38,7 +41,10 @@ createRoot(document.getElementById('root')).render(
     {/* <ControlledComponent /> */}
     {/* <UnControlledComponent /> */}
     {/* <ListRendering /> */}
-    <ConditionalRendering />
+    {/* <ConditionalRendering /> */}
+    {/* <NotificationSystem /> */}
+    {/* <UseEffect /> */}
+    <ApiCall />
   </StrictMode>,
 )
 
