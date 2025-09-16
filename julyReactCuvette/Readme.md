@@ -100,3 +100,17 @@ JS Programming Lang => Module => Packages => Libraries/Framework.
 5. Rendering Lists of Data with Keys.
 6. Conditional Content Rendering.
 7. Dynamic Styles and CSS Classes.
+
+
+
+<!-- React Handling Side Effects & Working With APIs and useReducer Hook -->
+
+1. Side Effects & useEffect Hook.
+   Side Effects are operations that affect something outside the scope of function/component being executed.
+   Calling data from API
+   Manipulate DOM.
+   SetTimeout/SetInterval
+2. API => Application Programming Interface => Communicate with backend
+   CRUD => Create, Read, Update, Delete
+   HTTP Request - Get, Post, put, delete
+   
