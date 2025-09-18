@@ -113,4 +113,12 @@ JS Programming Lang => Module => Packages => Libraries/Framework.
 2. API => Application Programming Interface => Communicate with backend
    CRUD => Create, Read, Update, Delete
    HTTP Request - Get, Post, put, delete
+
+<!-- React Class Components -->
+
+1. Sending a POST Request.
+2. useReducer Hook.
+3. First Class-based Component.
+4. Sending the GET request using Fetch in Class based Component.
+
    

@@ -16,7 +16,9 @@ import './index.css'
 // import ConditionalRendering from "./components/ConditionalRendering/ConditionalRendering"
 // import NotificationSystem from "./components/ConditionalRendering/NotificationSystem"
 // import UseEffect from './components/sideEffects/UseEffect'
-import ApiCall from "./components/API/ApiCall"
+// import ApiCall from "./components/API/ApiCall"
+// import PostRequest from "./components/API/PostRequest"
+import ReducerHook from "./components/reducerHook/ReducerHook"
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -44,7 +46,9 @@ createRoot(document.getElementById('root')).render(
     {/* <ConditionalRendering /> */}
     {/* <NotificationSystem /> */}
     {/* <UseEffect /> */}
-    <ApiCall />
+    {/* <ApiCall /> */}
+    {/* <PostRequest /> */}
+    <ReducerHook />
   </StrictMode>,
 )
 
