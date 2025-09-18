@@ -18,7 +18,10 @@ import './index.css'
 // import UseEffect from './components/sideEffects/UseEffect'
 // import ApiCall from "./components/API/ApiCall"
 // import PostRequest from "./components/API/PostRequest"
-import ReducerHook from "./components/reducerHook/ReducerHook"
+// import ReducerHook from "./components/reducerHook/ReducerHook"
+// import UserProfile from "./components/class/UserProfile"
+import ErrorBoundary from "./components/class/ErrorBoundaryAndContext"
+import BuggyComponent from "./components/class/BuggyComponent"
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -48,7 +51,11 @@ createRoot(document.getElementById('root')).render(
     {/* <UseEffect /> */}
     {/* <ApiCall /> */}
     {/* <PostRequest /> */}
-    <ReducerHook />
+    {/* <ReducerHook /> */}
+    {/* <UserProfile /> */}
+    <ErrorBoundary>
+      <BuggyComponent />
+    </ErrorBoundary>
   </StrictMode>,
 )
 
