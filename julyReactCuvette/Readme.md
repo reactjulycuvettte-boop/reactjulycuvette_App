@@ -121,4 +121,20 @@ JS Programming Lang => Module => Packages => Libraries/Framework.
 2. Error Boundaries.
 3. Context.
 
+<!-- React Router DOM -->
+
+1. What is Routing & Why?
+2. Installing React Router
+3. Defining & Using Routes
+4. Working with Links
+5. Using NavLinks
+6. Adding Dynamic Routes with Params
+7. Extracting Route Params
+8. Using ""Switch"" and ""exact"" For Configuring Routes
+9. Working with Nested Routes
+10. Redirecting The User
+11. Adding a ""Not Found"" Page
+12. Implementing Programmatic (Imperative) Navigation
+13. Working with Query Parameters.
+
    
