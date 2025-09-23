@@ -138,3 +138,5 @@ JS Programming Lang => Module => Packages => Libraries/Framework.
 13. Working with Query Parameters.
 
    
+1. useRef - Persists values between render without causing re-renders.
+2. 
